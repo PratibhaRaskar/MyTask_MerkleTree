@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "keccak256": "^1.0.6",
+    "merkle-tree": "^1.0.5",
+    "merkletreejs": "^0.2.32"
+  }
+}
