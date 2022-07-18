@@ -7,7 +7,6 @@ let userAddresses= [
     "0xB4c3B6CF06e162857b96de1186a5A69901caEf3b",
     "0xfe2589D503696026C6e9e5596390809ac11Bb657"
 
-
 ]
 
 const leafNodes = userAddresses.map(addr => keccak256(addr));
